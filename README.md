@@ -1,5 +1,11 @@
 # Purpose Bound Money
 
-xxxxx
+Purpose Bound Money is xxxx
 
-link to Purpose Bound Money Whitepaper
+Installation 
+
+xx
+xx
+
+test
+
