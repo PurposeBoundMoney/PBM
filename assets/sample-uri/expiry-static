@@ -1,7 +1,7 @@
 {
-    "name": "SFF expired voucher",
-    "description": "Collectible",
-    "image": "https://gateway.pinata.cloud/ipfs/QmdKf2FNDuQoxWT3rrocvUhbbuXuUdTdHy17mzVXHYNUV9",
+    "name": "expired voucher",
+    "description": "<insert description>",
+    "image": "<insert image>",
     "attributes": [
         {
           "trait_type": "Value", 
