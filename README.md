@@ -7,7 +7,7 @@ Purpose Bound Money proposes a common protocol to specify conditions for the use
 
 The whitepaper was supported by the release of software prototypes that demonstrate the concept of PBM, which enables senders to specify conditions, such as validity period and types of shops, when making transfers in digital money across different systems.
 
-For illustration purposes, a sample PBM implementation was developed, taking reference from the Ethereum Improvement Proposal (EIP) as a design document providing information or describing new features or its processes or environment, to spur further industry development.
+For illustration purposes, a sample PBM implementation is provided here. This was developed with reference to the Ethereum Improvement Proposal (EIP) as a design document providing information or describing new features or its processes or environment, to spur further industry development.
 
 The PBM design is technology neutral and aims to work across different types of ledgers and assets. It is envisioned that PBM could be implemented on both distributed and non-distributed ledgers. It is envisioned that future implementations of PBM could be based on a different ledger system from the ones referenced in this paper and in the samples provided. 
 
