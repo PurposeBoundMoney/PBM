@@ -1,0 +1,15 @@
+{
+    "name": "<insert name>",
+    "description": "<insert description>",
+    "image": "<insert image>",
+    "attributes": [
+        {
+          "trait_type": "Value", 
+          "value": "0"
+        },
+        {
+            "trait_type": "Expired", 
+            "value": "False"
+        }
+    ]
+}
